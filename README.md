@@ -6,4 +6,4 @@ $ cat responsne
 Hello World!
 ```
 
-使う Lambda function 作るときに使う dummy の Role で良いっぽい
+Lambda function 作るときに使う Role は dummy で良いっぽい
